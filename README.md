@@ -1,0 +1,1 @@
+# maya_automatic_texture_import_with_python
